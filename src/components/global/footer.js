@@ -22,7 +22,7 @@ class Footer_v1 extends Component {
 					<div className="container">
 						<div className="row">
 							<div className="col-md-4">
-								<a href="index.html"><img src={publicUrl + "assets/img/logo.png"} alt="img" /></a>
+								<a href="index.html"><img src={publicUrl + "assets/img/beton-text.svg"} alt="img" /></a>
 							</div>
 							<div className="col-md-8 text-md-right mt-3 mt-md-0">
 								<ul className="social-area">
