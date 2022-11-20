@@ -2637,13 +2637,12 @@ ul {
 }
 
 .single-service-wrap .thumb {
-  height: 181px;
-  width: 181px;
-  background: url(../img/service/bg.png);
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
   line-height: 178px;
   display: inline-block;
-  border: 4px solid #ffffff;
+
   margin-top: -50%;
   position: relative;
   z-index: 1;
@@ -2654,7 +2653,7 @@ ul {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: #061539;
+
   top: 0;
   left: 0;
   border-radius: 50%;
