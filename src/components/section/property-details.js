@@ -120,6 +120,35 @@ class PropertyDetails extends Component {
 			          </div>
 			          
 			              
+
+
+					  <div className="single-property-grid">
+			            <h4>Amenities</h4>
+			            <div className="row">
+			              <div className="col-md-4">
+			                <ul>
+			                  <li><i className="fa fa-check" />Air Conditionar</li>
+			                  <li><i className="fa fa-check" />Fencing</li>
+			                  <li><i className="fa fa-check" />Internet</li>
+			                </ul>
+			              </div>
+			              <div className="col-md-4">
+			                <ul>
+			                  <li><i className="fa fa-check" />Wardrobes</li>
+			                  <li><i className="fa fa-check" />School</li>
+			                  <li><i className="fa fa-check" />Park</li>
+			                </ul>
+			              </div>
+			              <div className="col-md-4">
+			                <ul>
+			                  <li><i className="fa fa-check" />Dishwasher</li>
+			                  <li><i className="fa fa-check" />Floor Covering</li>
+			                  <li><i className="fa fa-check" />Internet</li>
+			                </ul>
+			              </div>
+			            </div>
+			          </div>
+
 			          
 			        
 			          <div className="single-property-grid">
