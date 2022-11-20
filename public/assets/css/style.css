@@ -47,7 +47,7 @@ Version: 1.0.3
 /***transition***/
 :root {
   --main-color: #5ba600;
-  --heading-color: #0d1741;
+  --heading-color: #ffffff;
   --paragraph-color: #565872;
   --heading-font: "Rubik", sans-serif;
   --body-font: "Rubik", sans-serif;
@@ -115,7 +115,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #000000;
   font-family: var(--heading-font);
   font-weight: 500;
 }
@@ -173,6 +173,10 @@ ol li:before {
   content: counter(counter);
   font-weight: 500;
   margin-right: 10px;
+}
+
+.beton-logo {
+  width: 160px;
 }
 
 button:hover,
@@ -1480,7 +1484,7 @@ ul {
 .navbar-top ul li a {
   margin: 0;
   font-size: 12px;
-  color: rgba(255, 255, 255, 0.9);
+  color: #0066CB;
 }
 
 .navbar-top ul li p img,
@@ -1573,7 +1577,7 @@ ul {
 }
 
 .navbar-area .nav-container .navbar-collapse .navbar-nav li a {
-  color: #fff;
+  color: #0066CB;
   font-weight: 500;
   font-size: 16px;
 }
@@ -1599,7 +1603,7 @@ ul {
   top: 50%;
   height: 10px;
   width: 2px;
-  background: #fff;
+  background: #0066CB
   transform: translateY(-50%);
   transition: all 0.3s ease-in;
   margin-top: 0px;
@@ -1612,7 +1616,7 @@ ul {
   top: 25px;
   height: 2px;
   width: 10px;
-  background: #fff;
+  background:#0066CB;
   transform: translateY(-50%);
   transition: all 0.3s ease-in;
 }
@@ -1778,7 +1782,8 @@ ul {
 }
 
 .navbar-area-1 .nav-container {
-  background: #061539;
+
+  background: #ffffff;
   padding: 0 0 0 20px !important;
 }
 
@@ -2217,7 +2222,7 @@ ul {
   width: 100%;
   left: 0;
   top: 0;
-  background: rgba(0, 24, 77, 0.8);
+  background: rgba(237, 240, 244, 0.873);
 }
 
 .banner-area-inner {
@@ -2263,7 +2268,7 @@ ul {
 
 .banner-inner h2 {
   font-size: 60px;
-  color: #fff;
+  color: #0066CB;
   font-weight: 700;
 }
 
