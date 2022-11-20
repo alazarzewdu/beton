@@ -14,7 +14,7 @@ class Service extends Component {
 			      <div className="col-lg-4 col-md-10">
 			        <div className="single-service-wrap">
 			          <div className="thumb">
-			            <img src={publicUrl+"assets/img/service/rental.webp"} alt="icon" />
+			            <img src={publicUrl+"assets/img/service/1.png"} alt="icon" />
 			          </div>
 			          <div className="single-service-details">
 			            <h4><a href="property-details.html">Rentals</a></h4>
@@ -29,7 +29,7 @@ class Service extends Component {
 			          </div>
 			          <div className="single-service-details">
 			            <h4><a href="property-details.html">For Sale</a></h4>
-			            <p>Lorem ipsum dolor sit consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+			            <p>Explore House and land for sale all around Addis Ababa</p>
 			          </div>
 			        </div>
 			      </div>
@@ -40,7 +40,7 @@ class Service extends Component {
 			          </div>
 			          <div className="single-service-details">
 			            <h4><a href="property-details.html">Guest House</a></h4>
-			            <p>Lorem ipsum dolor sit consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+			            <p>Fully furnished house and ready to use houses around Addis Ababa</p>
 			          </div>
 			        </div>
 			      </div>
