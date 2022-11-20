@@ -15,19 +15,20 @@ class Navbar extends Component {
 			      <div className="row">
 			        <div className="col-lg-8 text-lg-left text-center">
 			          <ul>
-			            <li><p><img src={publicUrl+"assets/img/icon/location.png"} alt="img" /> 420 Love Sreet 133/2 flx City</p></li>
-			            <li><p><img src={publicUrl+"assets/img/icon/phone.png"} alt="img" /> +(06) 017 800 628</p></li>
-			            <li><p><img src={publicUrl+"assets/img/icon/envelope.png"} alt="img" />  info.contact@gmail.com</p></li>
+			            <li><p><img src={publicUrl+"assets/img/icon/location.png"} alt="img" /> 
+Summite feyelbet, Tshion BLDG 6th floor </p></li>
+			            <li><p><img src={publicUrl+"assets/img/icon/phone.png"} alt="img" /> O905404444  0906404444</p></li>
+			            <li><p><img src={publicUrl+"assets/img/icon/envelope.png"} alt="img" />  betonproperties@gmail.com</p></li>
 			          </ul>
 			        </div>
 			        <div className="col-lg-4">
 			          <ul className="topbar-right text-lg-right text-center">
 			            <li className="social-area">
-			              <a href="https://www.facebook.com/solverwp/"><i className="fab fa-facebook-f" aria-hidden="true" /></a>
-			              <a href="https://www.twitter.com/solverwp/"><i className="fab fa-twitter" aria-hidden="true" /></a>
-			              <a href="https://www.instagram-plus.com/solverwp/"><i className="fab fa-instagram" aria-hidden="true" /></a>
-			              <a href="https://www.skype.com/solverwp/"><i className="fab fa-skype" aria-hidden="true" /></a>
-			              <a href="https://www.pinterest.com/solverwp/"><i className="fab fa-pinterest-p" aria-hidden="true" /></a>
+			              <a href="https://www.facebook.com/Betonproperties/"><i className="fab fa-facebook-f" aria-hidden="true" /></a>
+			              <a href="https://www.tiktok.com/@beton.et"><i className="fab fa-tiktok" aria-hidden="true" /></a>
+			              <a href="https://www.instagram.com/betoneth/"><i className="fab fa-instagram" aria-hidden="true" /></a>
+			              <a href="https://t.me/Betoneth"><i className="fab fa-telegram" aria-hidden="true" /></a>
+			              <a href="https://www.linkedin.com/in/beton-real-estate-marketplace-982775253/"><i className="fab fa-linkedin" aria-hidden="true" /></a>
 			            </li>
 			          </ul>
 			        </div>
@@ -43,7 +44,7 @@ class Navbar extends Component {
 			        </button>
 			      </div>
 			      <div className="logo">
-			        <Link to="/"><img src={publicUrl+"assets/img/logo.png"} alt="img" /></Link>
+			        <Link to="/"><img class="beton-logo" src={publicUrl+"assets/img/beton-text.png"} alt="img" /></Link>
 			      </div>
 			      <div className="nav-right-part nav-right-part-mobile">
 			        <ul>
