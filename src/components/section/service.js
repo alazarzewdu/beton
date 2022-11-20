@@ -14,7 +14,7 @@ class Service extends Component {
 			      <div className="col-lg-4 col-md-10">
 			        <div className="single-service-wrap">
 			          <div className="thumb">
-			            <img src={publicUrl+"assets/img/service/1.png"} alt="icon" />
+			            <img src={publicUrl+"assets/img/service/rental.webp"} alt="icon" />
 			          </div>
 			          <div className="single-service-details">
 			            <h4><a href="property-details.html">Rentals</a></h4>
