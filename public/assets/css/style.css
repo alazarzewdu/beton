@@ -4813,3 +4813,7 @@ ul {
   padding-right: 0;
   border-right: 0;
 }
+
+#faicons {
+  width: 200px;
+}
