@@ -51,7 +51,7 @@ class PropertyGrid extends Component {
 			            </div> 
 			          </div> 
 			          <div className="product-details-inner">
-			            <h4><Link to="/property-details">32,000,000$</Link></h4>
+			            <h4><Link to="/property-details"> 32,000,000$</Link></h4>
 			            <ul className="meta-inner">
 			            </ul>
 			            <p>Bole, Wolo Sefer</p>

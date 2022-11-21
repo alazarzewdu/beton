@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import parse from 'html-react-parser';
 
+
+
 class PropertyGrid extends Component {
 
 	componentDidMount() {
@@ -51,14 +53,72 @@ class PropertyGrid extends Component {
 			            </div> 
 			          </div> 
 			          <div className="product-details-inner">
-			            <h4>  <li><Link to="/test">Rentals</Link></li></h4>
-			            <ul className="meta-inner">
-			            </ul>
-			            <p>Bole, Wolo Sefer</p>
+			            <h4> <Link to="/test">11,000,000</Link></h4>
+			            <p>Summit, 72</p>
 			            <span className="">Addis Ababa</span>
 			          </div>
 			          <div className="product-meta-bottom style-2">
-			            <span>3 <span>Bedroom</span></span>
+					    <span>3 <span>Bedroom</span></span>
+			            <span className="border-none">2 <span>Bathroom</span></span>
+			            <span>1026 <span>sqft</span></span>
+						
+			          </div>         
+			        </div>
+			      </div>
+
+
+				  <div className="col-lg-4 col-md-6">
+			        <div className="single-product-wrap style-2">
+			          <div className="thumb">
+			            <img src={publicUrl+"assets/img/project/15.png" }alt="img" />
+			            <div className="product-wrap-details">
+			              <div className="media">
+			                <div className="author">
+			                    
+			                </div>
+			                <div className="media-body">
+			                  <p><img src={publicUrl+"assets/img/icon/location-alt.png"} alt="img" />Apartment</p>
+			                </div>
+			              </div>
+			            </div> 
+			          </div> 
+			          <div className="product-details-inner">
+			            <h4> <Link to="/test">11,000,000</Link></h4>
+			            
+			            <p>Summit, 72</p>
+			            <span className="">Addis Ababa</span>
+			          </div>
+			          <div className="product-meta-bottom style-2">
+					    <span>3 <span>Bedroom</span></span>
+			            <span className="border-none">2 <span>Bathroom</span></span>
+			            <span>1026 <span>sqft</span></span>
+						
+			          </div>         
+			        </div>
+			      </div>
+
+				  <div className="col-lg-4 col-md-6">
+			        <div className="single-product-wrap style-2">
+			          <div className="thumb">
+			            <img src={publicUrl+"assets/img/project/15.png" }alt="img" />
+			            <div className="product-wrap-details">
+			              <div className="media">
+			                <div className="author">
+			                    
+			                </div>
+			                <div className="media-body">
+			                  <p><img src={publicUrl+"assets/img/icon/location-alt.png"} alt="img" />Apartment</p>
+			                </div>
+			              </div>
+			            </div> 
+			          </div> 
+			          <div className="product-details-inner">
+			            <h4>  <Link to="/test">11,000,000</Link></h4>
+			            <p>Summit, 72</p>
+			            <span className="">Addis Ababa</span>
+			          </div>
+			          <div className="product-meta-bottom style-2">
+					    <span>3 <span>Bedroom</span></span>
 			            <span className="border-none">2 <span>Bathroom</span></span>
 			            <span>1026 <span>sqft</span></span>
 						
