@@ -20,20 +20,7 @@ class PropertyGrid extends Component {
 			  <div className="container">
 			    <div className="row justify-content-center">
 			      <div className="col-12">
-			        <div className="product-search-inner bg-main">
-			          <div className="row custom-gutters-20">
-			            <div className="col-md-3 align-self-center">
-			              
-			            </div>
-			            <div className="col-md-6 mt-2 mt-md-0">
-			              
-			                 <h1>Sale</h1>
-			                 
-			               
-			            </div>
-
-			          </div>
-			        </div>        
+			             
 			      </div>        
 			      <div className="col-lg-4 col-md-6">
 			        <div className="single-product-wrap style-2">

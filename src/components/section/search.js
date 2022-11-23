@@ -30,7 +30,7 @@ class Banner extends Component {
 						  <div className="col-md-3">
 			                <div className="single-select-inner">
 			                  <select>
-			                    <option>Location</option>
+			                    <option>Type</option>
 			                    <option value={1}>Location 1</option>
 			                    <option value={2}>Location 2</option>
 			                    <option value={3}>Location 3</option>
@@ -41,7 +41,7 @@ class Banner extends Component {
 						  <div className="col-md-3">
 			                <div className="single-select-inner">
 			                  <select>
-			                    <option>Location</option>
+			                    <option>Bedroom</option>
 			                    <option value={1}>Location 1</option>
 			                    <option value={2}>Location 2</option>
 			                    <option value={3}>Location 3</option>
@@ -52,7 +52,7 @@ class Banner extends Component {
 						  <div className="col-md-3">
 			                <div className="single-select-inner">
 			                  <select>
-			                    <option>Location</option>
+			                    <option>Bathroom</option>
 			                    <option value={1}>Location 1</option>
 			                    <option value={2}>Location 2</option>
 			                    <option value={3}>Location 3</option>
