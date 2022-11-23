@@ -604,6 +604,8 @@ ul {
 }
 
 .btn-base {
+  margin-left: 310px;
+  margin-top:10px;
   color: #fff;
   border: 0;
   background: var(--main-color);
@@ -2222,7 +2224,7 @@ ul {
   width: 100%;
   left: 0;
   top: 0;
-  background: rgba(237, 240, 244, 0.873);
+  background: rgba(237, 240, 244, 0.43);
 }
 
 .banner-area-inner {

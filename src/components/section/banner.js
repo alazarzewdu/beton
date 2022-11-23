@@ -8,7 +8,7 @@ class Banner extends Component {
 
         let publicUrl = process.env.PUBLIC_URL+'/'
 
-    return  <div className="banner-area banner-area-1 banner-area-bg" style={{background: 'url('+publicUrl+'assets/img/banner/1.png)'}}>
+    return  <div className="banner-area banner-area-1 banner-area-bg" style={{background: 'url('+publicUrl+'assets/img/background.jpg)'}}>
 			  <div className="container">
 			    <div className="banner-area-inner">
 			      <div className="row justify-content-center">
@@ -65,7 +65,7 @@ class Banner extends Component {
 			                </div>
 			              </div>
 			              <div className="col-md-3">
-			                <Link className="btn btn-base w-100" to="/property-grid"><i className="fa fa-search mr-1" /> Search</Link>
+			                <Link className="btn btn-base w-100" to="/"><i className="fa fa-search mr-1" /> Search</Link>
 			              </div>
 			            </div>
 			          </form>
