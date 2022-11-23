@@ -21,26 +21,26 @@ class ContactForm extends Component {
                 <div className="row">
                   <div className="col-xl-6 col-lg-7 mb-5 mb-lg-0">
                     <div className="contact-details-inner mng-box-shadow">
-                      <h4>Adipisicing elit se tempor labore .</h4>
-                      <p>Lorem ipsum dolor  consectetur aLorem ipsum   consectetur adipisicing elit, eiusmod tempor incididunt labore et dolore magna aliqua.minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                      <h4>GET IN TOUCH</h4>
+                      <p>Beton is committed to ensure a better user experience on the platform. We are continuously working to improve your experience your experience on all our platforms, we welcome any feedback. If you wish to report an issue or any other comment let us know.</p>
                       <div className="row">
                         <div className="col-md-6">
                           <div className="contact-single-list">
-                            <h5>India Office</h5>
+                            <h5>Summit Feyelbet Office</h5>
                             <ul>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> 420 Love Sreet 133/2 Mirpur  Nevis, Caribbean Dhaka</li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> +(066) 19 5017 800 628</li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> +(066) 19 5017 800 628</li>
+                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> Tshion BLDG 6th floor</li>
+                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
+                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
                             </ul>
                           </div>
                         </div>
                         <div className="col-md-6">
                           <div className="contact-single-list">
-                            <h5>India Office</h5>
+                            <h5>Wosen Office</h5>
                             <ul>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> +(066) 19 5017 800 628</li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> +(066) 19 5017 800 628</li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> +(066) 19 5017 800 628</li>
+                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> the BLDG with Hibret Bank 4th floor</li>
+                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
+                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
                             </ul>
                           </div>
                         </div>
