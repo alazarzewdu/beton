@@ -3807,6 +3807,12 @@ ul {
   display: inline-block;
 }
 
+.foot-img {
+  width: 200px;
+  margin:  0;
+
+}
+
 .pagination .page-item {
   margin-right: 15px;
   display: inline-block;
@@ -4286,6 +4292,13 @@ ul {
   border-radius: 6px;
 }
 
+.foot-beton {
+  margin-right: 260px;
+  width: 100px;
+  color: white;
+  font-size: 30px;
+}
+
 .sidebar-area .widget .widget-title {
   border-left: 2px solid var(--main-color);
   display: inline-block;
@@ -4723,7 +4736,7 @@ ul {
 }
 
 .footer-area .widget_newsfeed ul li:last-child {
-  border-bottom: 1px solid #283453;
+  border-bottom: 1px solid #0364CB;
 }
 
 .footer-area .widget_subscribe .details {

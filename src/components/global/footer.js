@@ -41,12 +41,13 @@ class Footer_v1 extends Component {
 						<div className="row">
 							<div className="col-lg-4 col-md-6">
 								<div className="widget widget_about">
-									<h4 className="widget-title">Beton</h4>
+									<h6 className='foot-beton'>Beton Properties</h6> <br></br>
 									<div className="details">
-										<p>Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur et adipisicing  eiusmod tempor incididunt labore</p>
-										<p><i className="fas fa-map-marker-alt" /> 420 Love Sreet 133/2 Mirpur City, Dhaka</p>
-										<p><i className="fas fa-phone-volume" /> +(066) 19 5017 800 628</p>
-										<p><i className="fas fa-envelope" /> info.contact@gmail.com</p>
+										<p>Beton is committed to ensure a better user experience on the platform. we are continuously working to improve your experience on all our platforms, we welcome any feedback. if you wish to report an issue or any other comment</p>
+										<p><i className="fas fa-map-marker-alt" /> Summit feyelbet, Tshion BLDG 6th floor Addis Ababa, Ethiopia </p> 
+										<p><i className="fas fa-map-marker-alt" /> Wosen, the BLDG with Hibret Bank 4th floor Addis Ababa, Ethiopia </p> 
+										<p><i className="fas fa-phone-volume" /> +(251)905404444,  +(251)906404444</p>
+										<p><i className="fas fa-envelope" /> betonproperties@gmail.com</p>
 									</div>
 								</div>
 							</div>
@@ -59,7 +60,7 @@ class Footer_v1 extends Component {
 					<div className="container">
 						<div className="row">
 							<div className="col-md-7 align-self-center">
-								<p>©2022, Copy Right By Solverwp. All Rights Reserved</p>
+								<p>©2022, Developed by Alazar Zewdu. All Rights Reserved</p>
 							</div>
 							<div className="col-md-5 text-md-right go-top">
 								<ul>
