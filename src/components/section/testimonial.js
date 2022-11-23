@@ -8,12 +8,12 @@ class Testimonial extends Component {
 
         let publicUrl = process.env.PUBLIC_URL+'/'
 
-    return <div className="testimonial-area pd-top-118 pd-bottom-120 bg-overlay" style={{background: 'url('+publicUrl+'assets/img/bg/2.png)'}}>
+    return <div className="testimonial-area pd-top-118 pd-bottom-120 bg-overlay" style={{background: 'url('+publicUrl+'assets/img/client.jpg)'}}>
 			  <div className="bg-overlay-wrap">
 			    <div className="section-title style-white text-center">
-			      <h6>Our Testomonial </h6>
-			      <h2>What Client Say</h2>
-			      <p>Lorem ipsum dolor  amet, consectetur adipisicing elit Lorem ipsum dolor sit amet, </p>
+			      <h6>Our Testimonial </h6>
+			      <h2>What Clients Say</h2>
+			    
 			    </div>
 			    <div className="container">
 			      <div className="row justify-content-center">
@@ -25,14 +25,15 @@ class Testimonial extends Component {
 			                  <img src={publicUrl+"assets/img/testimonial/1.png"} alt="img" />
 			                </div>
 			                <div className="details">
-			                  <h6 className="name">Sarif Jaya Miprut</h6>
-			                  <p>“consecte Lorem ipsum dolor sit amet, Lorem ipsum dolor amet, consecte Lorem ipsum dolor sit adipisicing amet, consectetur sed do eiusmod tempor incididunt dolore magna consecrem adipisicing ipsum dolor sit amet, consectetur elit,’’ </p>
+			                  <h6 className="name">Marta Shimeles</h6>
+			                  <p>“I was looking around for 2 bedroom apartment  when i find Beton. it such an amazing website not just there online service but, also their agent. There agent i meet with was  such a great person and knowledgeable and he helped me to find an amazing house. Thank You" </p>
 			                  <div className="rating-inner">
 			                    <i className="fas fa-star" />
 			                    <i className="fas fa-star" />
 			                    <i className="fas fa-star" />
 			                    <i className="fas fa-star" />
-			                    <i className="far fa-star" aria-hidden="true" />
+								<i className="fas fa-star" />
+			                    {/* <i className="far fa-star"  aria-hidden="true"/> */}
 			                  </div>
 			                </div>
 			              </div>
@@ -43,8 +44,8 @@ class Testimonial extends Component {
 			                  <img src={publicUrl+"assets/img/testimonial/4.png"} alt="img" />
 			                </div>
 			                <div className="details">
-			                  <h6 className="name">Sarif Jaya Miprut</h6>
-			                  <p>“consecte Lorem ipsum dolor sit amet, Lorem ipsum dolor amet, consecte Lorem ipsum dolor sit adipisicing amet, consectetur sed do eiusmod tempor incididunt dolore magna consecrem adipisicing ipsum dolor sit amet, consectetur elit,’’ </p>
+			                  <h6 className="name">Bekele Yaschelal</h6>
+			                  <p>“our website is easy to use and i had many options of houses to choice from. keep up the good work." </p>
 			                  <div className="rating-inner">
 			                    <i className="fas fa-star" />
 			                    <i className="fas fa-star" />

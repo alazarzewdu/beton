@@ -21,8 +21,8 @@ class Agent extends Component {
                     <img src={publicUrl+"assets/img/agent/1.png"} alt="img" />
                   </div> 
                   <div className="details">
-                    <h4>Sandara Mrikon</h4>
-                    <h6>Estate Agent</h6>
+                    <h4>Member 1</h4>
+                    <h6>CEO </h6>
                     <ul className="social-area style-2">
                       <li><a href="#"><i className="fab fa-facebook-f" aria-hidden="true" /></a></li>
                       <li><a href="#"><i className="fab fa-linkedin-in" aria-hidden="true" /></a></li>
@@ -38,8 +38,8 @@ class Agent extends Component {
                     <img src={publicUrl+"assets/img/agent/2.png"} alt="img" />
                   </div> 
                   <div className="details">
-                    <h4>Sarif Jaya Miprut</h4>
-                    <h6>Area Agent</h6>
+                    <h4>Member 2</h4>
+                    <h6>Co Founder</h6>
                     <ul className="social-area style-2">
                       <li><a href="#"><i className="fab fa-facebook-f" aria-hidden="true" /></a></li>
                       <li><a href="#"><i className="fab fa-linkedin-in" aria-hidden="true" /></a></li>
@@ -55,8 +55,8 @@ class Agent extends Component {
                     <img src={publicUrl+"assets/img/agent/3.png"} alt="img" />
                   </div> 
                   <div className="details">
-                    <h4>Jordan Smith</h4>
-                    <h6>Expart Agent</h6>
+                    <h4>Member 2 </h4>
+                    <h6>Developer</h6>
                     <ul className="social-area style-2">
                       <li><a href="#"><i className="fab fa-facebook-f" aria-hidden="true" /></a></li>
                       <li><a href="#"><i className="fab fa-linkedin-in" aria-hidden="true" /></a></li>
