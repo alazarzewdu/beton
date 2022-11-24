@@ -15,9 +15,10 @@ class Banner extends Component {
 			        <div className="col-lg-8">
 			          <div className="banner-inner text-center">
 			            
-			            <div className="" />
+			            <div className="banner-txt">
 			            <h2>Find Your Home</h2>
 						<h3>Rentals | For Sale | Guest House</h3>
+						</div>
 			          </div>
 			        </div>
 			        <div className="col-lg-8 mt-4">
