@@ -17,7 +17,7 @@ class Service extends Component {
 			            <img src={publicUrl+"assets/img/service/1.png"} alt="icon" />
 			          </div>
 			          <div className="single-service-details">
-			            <h4><a href="property-details.html">Rentals</a></h4>
+			            <h4><Link to="/rental">Rentals</Link></h4>
 			            <p>Explore large number of houses and apartments for rent.</p>
 			          </div>
 			        </div>
@@ -28,7 +28,7 @@ class Service extends Component {
 			            <img src={publicUrl+"assets/img/service/2.png"} alt="icon" />
 			          </div>
 			          <div className="single-service-details">
-			            <h4><a href="property-details.html">For Sale</a></h4>
+						<h4><Link to="/sale">For Sale</Link></h4>
 			            <p>Explore House and land for sale all around Addis Ababa</p>
 			          </div>
 			        </div>
@@ -39,7 +39,7 @@ class Service extends Component {
 			            <img src={publicUrl+"assets/img/service/3.png"} alt="icon" />
 			          </div>
 			          <div className="single-service-details">
-			            <h4><a href="property-details.html">Guest House</a></h4>
+			            <h4><Link to="/rental">Guest House</Link></h4>
 			            <p>Fully furnished house and ready to use houses around Addis Ababa</p>
 			          </div>
 			        </div>

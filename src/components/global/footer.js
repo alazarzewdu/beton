@@ -29,8 +29,8 @@ class Footer_v1 extends Component {
 									<li><a href="https://www.facebook.com/solverwp/"><i className="fab fa-facebook-f" aria-hidden="true" /></a></li>
 									<li><a href="https://www.twitter.com/solverwp/"><i className="fab fa-twitter" aria-hidden="true" /></a></li>
 									<li><a href="https://www.instagram.com/solverwp/"><i className="fab fa-instagram" aria-hidden="true" /></a></li>
-									<li><a href="https://www.skype.com/solverwp/"><i className="fab fa-skype" aria-hidden="true" /></a></li>
-									<li><a href="https://www.pinterest.com/solverwp/"><i className="fab fa-pinterest-p" aria-hidden="true" /></a></li>
+									<li><a href="https://www.skype.com/solverwp/"><i className="fab fa-linkedin" aria-hidden="true" /></a></li>
+									<li><a href="https://www.pinterest.com/solverwp/"><i className="fab fa-telegram" aria-hidden="true" /></a></li>
 								</ul>
 							</div>
 						</div>
