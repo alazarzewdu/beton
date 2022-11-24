@@ -117,8 +117,10 @@ h5,
 h6 {
   color: #000000;
   font-family: var(--heading-font);
-  text-align: center;
+  text-align: revert;
 }
+
+
 
 p {
   color: var(--paragraph-color);
@@ -302,6 +304,8 @@ code {
 .position-relative {
   position: relative;
 }
+
+
 
 /*--------------------------------------------------------------
 # Accessibility
@@ -2225,7 +2229,11 @@ ul {
   width: 100%;
   left: 0;
   top: 0;
-  background: rgba(237, 240, 244, 0.43);
+  background: rgba(0, 0, 0, 25%);
+}
+
+.banner-txt h3 {
+  color: white;
 }
 
 .banner-area-inner {
@@ -4805,7 +4813,8 @@ ul {
 }
 
 .footer-middle {
-  padding: 113px 0 40px 0;
+  height: 550px;
+  padding: 43px 0 40px 0;
 }
 
 .footer-bottom {
@@ -4846,6 +4855,8 @@ ul {
 }
 
 .featured {
+  height:80px;
   color: white;
+  text-align: center;
   font-size: 60px;
 }
