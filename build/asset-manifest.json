@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/demo/react/beton/static/js/main.dbc50cf2.js",
+    "index.html": "/demo/react/beton/index.html",
+    "main.dbc50cf2.js.map": "/demo/react/beton/static/js/main.dbc50cf2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbc50cf2.js"
+  ]
+}
