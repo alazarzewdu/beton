@@ -10,6 +10,7 @@ import Propterty from './components/property';
 import About from './components/about';
 import Team from './components/team';
 import Contact from './components/contact';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
