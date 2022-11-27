@@ -40,49 +40,17 @@ class PropertyDetails extends Component {
 			          </div>
 			        </div>
 			      </div>
+
+
 			      <div className="product-thumbnail-wrapper">
 			        <div className="single-thumbnail-slider">
-			          <div className="slider-item">
-			            <img src={publicUrl+"assets/img/project-single/1.png"} alt="img" />
-			          </div>
-			          <div className="slider-item">
-			            <img src={publicUrl+"assets/img/project-single/2.png"} alt="img" />
-			          </div>
-			          <div className="slider-item">
-			            <img src={publicUrl+"assets/img/project-single/3.png"} alt="img" />
-			          </div>
-			          <div className="slider-item">
-			            <img src={publicUrl+"assets/img/project-single/4.png"} alt="img" />
-			          </div>
-			          <div className="slider-item">
-			            <img src={publicUrl+"assets/img/project-single/5.png"} alt="img" />
-			          </div>
-			        </div>
-			        <div className="product-thumbnail-carousel">
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/1.png"} alt="img" />
-			          </div>
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/2.png"} alt="img" />
-			          </div>
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/3.png"} alt="img" />
-			          </div>
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/4.png"} alt="img" />
-			          </div>
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/5.png"} alt="img" />
-			          </div>
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/2.png"} alt="img" />
-			          </div>
-			          <div className="single-thumbnail-item">
-			            <img src={publicUrl+"assets/img/project-single/3.png"} alt="img" />
-			          </div>
+			         	
 			        </div>
 			      </div>
 			    </div>
+
+
+				
 			    <div className="row go-top">
 			      <div className="col-lg-8">
 			        <div className="single-property-details-inner">
