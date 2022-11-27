@@ -615,6 +615,14 @@ ul {
   background: var(--main-color);
 }
 
+.btn-base1 {
+  margin-left: 100px;
+  margin-top:10px;
+  color: #fff;
+  border: 0;
+  background: var(--main-color);
+}
+
 .btn-base:before {
   content: "";
   position: absolute;
@@ -2071,6 +2079,9 @@ ul {
     position: relative;
     z-index: 0;
   }
+  .navbar-collapse {
+    margin-left: -20px;
+  }
 
   .navbar-area .nav-container .navbar-toggler {
     padding: 0px;
@@ -2078,7 +2089,9 @@ ul {
 
   .navbar-area .nav-container .navbar-collapse {
     margin-top: 13px;
-    padding-right: 0;
+    background-color: white;
+    margin-left: 27;
+    padding-left: 15px;
   }
 
   .navbar-area .nav-container .navbar-collapse .navbar-nav {
@@ -2155,7 +2168,7 @@ ul {
   }
 
   .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a {
-    color: #fff;
+    color: black;
   }
 
   .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li {

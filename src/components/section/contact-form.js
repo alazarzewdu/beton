@@ -29,21 +29,12 @@ class ContactForm extends Component {
                             <h5>Summit Feyelbet Office</h5>
                             <ul>
                               <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> Tshion BLDG 6th floor</li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
+                              
+
                             </ul>
                           </div>
                         </div>
-                        <div className="col-md-6">
-                          <div className="contact-single-list">
-                            <h5>Wosen Office</h5>
-                            <ul>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> the BLDG with Hibret Bank 4th floor</li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
-                              <li><img src={publicUrl+"assets/img/icon/location2.png"} alt="img" /> </li>
-                            </ul>
-                          </div>
-                        </div>
+                        
                       </div>
                       <div className="row mt-4">
                         <div className="col-md-6">
@@ -102,7 +93,7 @@ class ContactForm extends Component {
                           </label>
                         </div>
                         <div className="col-12 mb-4">
-                          <button className="btn btn-base">Submit Now</button>
+                          <button className="btn btn-base1">Submit Now</button>
                         </div>
                       </div>
                     </form>

@@ -8,7 +8,7 @@ import Search from './section/search';
 const PropertGridPage = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Rentals"  />
+        <PageHeader headertitle=" Rentals"  />
         <Search />
         <Rental />
         <Footer />
