@@ -41,28 +41,33 @@ class Footer_v1 extends Component {
 						<div className="row">
 							<div className="col-lg-4 col-md-6">
 								<div className="widget widget_about">
+									
 									<h6 className='foot-beton'>Beton Properties</h6> <br></br>
+									
 									<div className="details">
+										
 										<p>Beton is committed to ensure a better user experience on the platform. we are continuously working to improve your experience on all our platforms, we welcome any feedback. if you wish to report an issue or any other comment</p>
 										<p><i className="fas fa-map-marker-alt" /> Summit feyelbet, Tshion BLDG 6th floor Addis Ababa, Ethiopia </p> 
 										<p><i className="fas fa-map-marker-alt" /> Wosen, the BLDG with Hibret Bank 4th floor Addis Ababa, Ethiopia </p> 
 										<p><i className="fas fa-phone-volume" /> +(251)905404444,  +(251)906404444</p>
 										<p><i className="fas fa-envelope" /> betonproperties@gmail.com</p>
+										<iframe className='map' src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d198059.49240377638!2d-84.68048827338674!3d39.13652252762691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1615660592820!5m2!1sen!2sbd" />
+										
 									</div>
 								</div>
 							</div>
+
 							
 							<div className="single-property-grid2">
 			    
-			            <div className="property-map2">
-			              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d198059.49240377638!2d-84.68048827338674!3d39.13652252762691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1615660592820!5m2!1sen!2sbd" />
-			            </div>
+			           
 			          </div>
 						</div>
 					</div>
 				</div>
 				
 				<div className="footer-bottom bg-black">
+				
 					<div className="container">
 						<div className="row">
 							<div className="col-md-7 align-self-center">

@@ -49,7 +49,7 @@ Summite feyelbet, Tshion BLDG 6th floor </p></li>
 			      <div className="nav-right-part nav-right-part-mobile">
 			        <ul>
 			          <li><a className="search" href="#"><i className="fa fa-search" /></a></li>
-			          <li><Link className="btn btn-base" to="/add-property"><span className="btn-icon"><i className="fa fa-plus" /></span> <span className="btn-text">SUBMIT PROPERTY</span></Link></li>
+
 			        </ul>
 			      </div>
 			      <div className="collapse navbar-collapse" id="dkt_main_menu">
