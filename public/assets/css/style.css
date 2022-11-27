@@ -616,7 +616,7 @@ ul {
 }
 
 .btn-base1 {
-  margin-left: 100px;
+  margin-left: 50px;
   margin-top:10px;
   color: #fff;
   border: 0;
@@ -1349,11 +1349,7 @@ ul {
   z-index: 2;
 }
 
-.bg-overlay-2 {
-  position: relative;
-  background-size: cover !important;
-  background-position:  !important;
-}
+
 
 .bg-overlay-2:after {
   content: "";
@@ -4873,16 +4869,3 @@ ul {
   text-align: center;
   font-size: 60px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
