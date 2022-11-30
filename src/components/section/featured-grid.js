@@ -29,7 +29,7 @@ class PropertyGrid extends Component {
 			            </div>
 			            <div className="col-md-6 mt-2 mt-md-0">
 			              
-			                 <p className='featured'>Featured</p>
+			                 <p className='featured'>Most Viewed</p>
 			                 
 			               
 			            </div>

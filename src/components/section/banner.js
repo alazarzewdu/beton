@@ -25,8 +25,12 @@ class Banner extends Component {
 			              
 			             
 			              <div className="col-md-3">
-			                <Link className="btn btn-base w-100" to="/"><i className="fa fa-search mr-1" /> Search</Link>
+			                <Link className="btn btn-base w-100" to="/rental"><i className="fa fa-home mr-1" /> Rentals</Link>
+							<Link className="btn btn-base w-100" to="/"><i className="fa fa-search mr-1" /> Search</Link>
+							<Link className="btn btn-base w-100" to="/"><i className="fa fa-search mr-1" /> Search</Link>
 			              </div>
+
+						  
 			            </div>
 			       
 			        </div>
