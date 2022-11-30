@@ -60,16 +60,8 @@ class PropertyGrid extends Component {
 			      
 			      
 			      
-			      <div className="pagination-area text-center mt-0">
-			        <ul className="pagination">
-			          <li className="page-item"><a className="page-link" href="#"><i className="la la-angle-double-left" /></a></li>
-			          <li className="page-item active"><a className="page-link" href="#">1</a></li>
-			          <li className="page-item"><a className="page-link" href="#">2</a></li>
-			          <li className="page-item"><a className="page-link" href="#">3</a></li>
-			          <li className="page-item"><a className="page-link" href="#">...</a></li>
-			          <li className="page-item"><a className="page-link" href="#"><i className="la la-angle-double-right" /></a></li>
-			        </ul>
-			      </div>
+			     
+				 
 			    </div>
 			  </div>
 			</div>
