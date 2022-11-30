@@ -250,6 +250,16 @@
 	margin-top: 25px;
 }
 
+.navbar-top {
+	display: none;
+}
+
+.banner-area-inner {
+	margin-top: -80px;
+}
+
+
+
 	.footer-bottom p {
 	    margin-bottom: 8px;
 	}
