@@ -17,7 +17,6 @@ class Banner extends Component {
 			            
 			            <div className="banner-txt">
 			            <h2>Find Your Home</h2>
-						<h3>Rentals | For Sale | Guest House</h3>
 						</div>
 			          </div>
 			        </div>
@@ -25,9 +24,11 @@ class Banner extends Component {
 			              
 			             
 			              <div className="col-md-3">
-			                <Link className="btn btn-base w-100" to="/rental"><i className="fa fa-home mr-1" /> Rentals</Link>
-							<Link className="btn btn-base w-100" to="/"><i className="fa fa-search mr-1" /> Search</Link>
-							<Link className="btn btn-base w-100" to="/"><i className="fa fa-search mr-1" /> Search</Link>
+			                {/* <Link className="btn1 btn-base1 w-100" to="/rental"><i className="fa fa-home mr-1" /> Rentals</Link> */}
+							<Link to="/rental">
+     							<button className='btn1' type="button">Rentals</button>
+ 							</Link>
+							
 			              </div>
 
 						  

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React , { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { FaDollarSign, FaMapMarkerAlt, FaMapMarkedAlt, FaBed, FaBath, FaRulerCombined } from "react-icons/fa";
 
