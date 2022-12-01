@@ -11,6 +11,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^5.2.3",
+    "eslint-visitor-keys": "^3.3.0",
     "google-maps-react": "^2.0.2",
     "html-react-parser": "^0.10.1",
     "owl.carousel": "^2.3.4",
@@ -20,7 +21,7 @@
     "react-icons": "^4.6.0",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^2.1.3",
+    "react-scripts": "^5.0.1",
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.3",
     "wowjs": "^1.1.3"
