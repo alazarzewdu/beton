@@ -28,6 +28,14 @@ class Banner extends Component {
 							<Link to="/rental">
      							<button className='btn1' type="button">Rentals</button>
  							</Link>
+
+							 <Link to="/sale">
+     							<button className='btn2' type="button">For Sale</button>
+ 							</Link>
+
+							 <Link to="/guest">
+     							<button className='btn3' type="button">Guest House</button>
+ 							</Link>
 							
 			              </div>
 
