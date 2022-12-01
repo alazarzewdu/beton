@@ -23,7 +23,7 @@ class Banner extends Component {
 			       
 			              
 			             
-			              <div className="col-md-3">
+			              <div className="btns">
 			                {/* <Link className="btn1 btn-base1 w-100" to="/rental"><i className="fa fa-home mr-1" /> Rentals</Link> */}
 							<Link to="/rental">
      							<button className='btn1' type="button">Rentals</button>

@@ -214,9 +214,7 @@ select:focus {
   padding-right: 0;
 }
 
-.col-md-3 {
-  margin-left: -200px;
-}
+
 
 .no-gutter>[class^=col-] {
   padding-left: 0;
@@ -234,6 +232,10 @@ select:focus {
 
 code {
   color: #faa603;
+}
+
+.btns {
+  margin-left: -380px;
 }
 
 .check-list {
@@ -2380,7 +2382,7 @@ margin-bottom: 0px;
 }
 
 .banner-inner h2 {
-  margin-left: 120px;
+  margin-left: -200px;
   margin-top: -120px;
   font-size: 60px;
   color: #0066CB;
