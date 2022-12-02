@@ -65,7 +65,7 @@ class PropertyDetails extends Component {
                     <img src="assets/3.jpeg" />
                     
                 </div>
-            </Carousel>
+                </Carousel>
 
 
 				  
