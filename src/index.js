@@ -10,6 +10,7 @@ import Propterty from './components/property';
 import About from './components/about';
 import Team from './components/team';
 import Contact from './components/contact';
+import Tips from './components/tips';
 
 
 
@@ -31,6 +32,8 @@ class Root extends Component {
                         <Route  path="/team" component={Team} />
                         <Route  path="/test" component={ProptertyDetails} />
                         <Route  path="/contact" component={Contact} />
+                        <Route  path="/tips" component={Tips} />
+                        
 	                </Switch>
 	                </div>
                 </HashRouter>

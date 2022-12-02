@@ -1,6 +1,7 @@
 import React , { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { FaDollarSign, FaMapMarkerAlt, FaMapMarkedAlt, FaBed, FaBath, FaRulerCombined } from "react-icons/fa";
+import { Carousel } from 'react-responsive-carousel';
 
 
 
@@ -36,7 +37,10 @@ class PropertyGrid extends Component {
 
 			          </div>
 			        </div>        
-			      </div>        
+			      </div>       
+
+				
+				  
 			      <div className="col-lg-4 col-md-6">
 			        <div className="single-product-wrap style-2">
 			          <div className="thumb">
@@ -58,9 +62,29 @@ class PropertyGrid extends Component {
 						<p>2 Beds | 2 Baths | 120sqft</p>
 			           
 			          </div>
-			              
 			        </div>
-			      </div>
+					</div>
+
+
+					
+
+
+
+
+			          
+			
+			    
+
+				
+
+
+				  
+
+				 
+				
+
+
+				  
 
 				  
 
@@ -85,14 +109,15 @@ class PropertyGrid extends Component {
 			      
 			      
 			      
-				  <div className="col-md-3">
+				  {/* <div className="col-md-3">
 			                <Link className="btn btn-base2 w-90" to=""> More</Link>
-			              </div>
+			              </div> */}
 			    </div>
 			  </div>
 			</div>
 
         }
 }
+
 
 export default PropertyGrid

@@ -3722,7 +3722,7 @@ margin-bottom: 0px;
 
 /**agent-area**/
 .single-agent-wrap {
-  border: 1px solid #ececec;
+  border: 1px solid #0000003a;
   border-radius: 4px;
   overflow: hidden;
   transition: all 0.4s ease-in;
@@ -3775,7 +3775,7 @@ margin-bottom: 0px;
   padding: 50px 0 15px 0;
   background: #fff;
   border: 0;
-  box-shadow: 0px 3px 20px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 3px 20px 0px rgba(0, 0, 0, 0);
 }
 
 .single-agent-wrap.style-2 .thumb {
@@ -3823,12 +3823,19 @@ margin-bottom: 0px;
 }
 
 .single-agent-wrap:hover {
-  background: var(--main-color);
+
 }
 
 .single-agent-wrap:hover .details h4 {
-  color: #fff;
+
 }
+
+.read_more {
+  color: blue;
+  text-decoration: underline;
+}
+
+
 
 .single-agent-wrap:hover .details h6 {
   color: #fff;
@@ -4966,3 +4973,5 @@ margin-bottom: 0px;
   text-align: center;
   font-size: 60px;
 }
+
+
