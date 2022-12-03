@@ -319,6 +319,8 @@
 	.sm-image-wrap li img {
 		width: 100px;
 	}
+
+	
 }
 @media all and (max-width: 575px) {
 	.banner-inner h2 {
@@ -385,15 +387,15 @@
 
 	.btn1 {
 		margin-top: -40px;
-		margin-left: 15px;
+		margin-left: 30px;
 	}
 
 	.btn2 {
-		margin-left: 15px;
+		margin-left: 30px;
 	}
 
 	.btn3 {
-		margin-left: 15px;
+		margin-left: 30px;
 	}
 
 	.pd-bottom-120 {
