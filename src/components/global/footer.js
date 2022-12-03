@@ -71,7 +71,7 @@ class Footer_v1 extends Component {
 					<div className="container">
 						<div className="row">
 							<div className="col-md-7 align-self-center">
-								<p>©2022, Developed by Alazar Zewdu. All Rights Reserved</p>
+								<p>© 2022 Santamaria trading PLC.  All rights reserved.</p>
 							</div>
 							
 						</div>
