@@ -15,8 +15,6 @@ const AboutPage = () => {
         <PageHeader headertitle="About Us"  />
         <About />
         <Counter />
-        <Agent />
-        <MoreInfo />
         <Footer />
     </div>
 }
