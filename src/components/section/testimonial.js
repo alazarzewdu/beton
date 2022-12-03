@@ -11,7 +11,7 @@ class Testimonial extends Component {
     return <div className="testimonial-area pd-top-118 pd-bottom-120 bg-overlay" style={{background: 'url('+publicUrl+'assets/img/client.jpg)'}}>
 			  <div className="bg-overlay-wrap">
 			    <div className="section-title style-white text-center">
-			      <h6>Our Testimonial </h6>
+			      
 			      <h2>What Clients Say</h2>
 			    
 			    </div>

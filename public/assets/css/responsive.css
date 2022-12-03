@@ -129,7 +129,8 @@
 		display: none;
 	}
 	.single-testimonial-inner.style-two {
-	    padding: 0 20px 32px;
+	    padding: 0 0px 3px;
+		height: 520px;
 	}
 	.single-testimonial-inner .details p {
 	    font-size: 20px;
@@ -178,7 +179,8 @@
 @media all and (max-width: 767px) {
 	.section-title h2,
 	.video-area .section-title h2 {
-	    font-size: 45px;
+		margin-top: -70px;
+	    font-size: 40px;
 	}
 	.td-search-popup.active .search-form {
 	    width: 90%;
@@ -229,11 +231,17 @@
 	font-size: 20px;
 }
 
+.col-lg-10 {
+	margin-top: -50px;
+}
+
 .section-title h6 {
-	font-size: 30px;
+
+	font-size: 25px;
 }
 
 .single-testimonial-inner .details h6 {
+	
 	font-size: 40px;
 }
 
