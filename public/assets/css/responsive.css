@@ -180,7 +180,7 @@
 @media all and (max-width: 767px) {
 	.section-title h2,
 	.video-area .section-title h2 {
-		margin-top: -70px;
+		margin-top: -90px;
 	    font-size: 40px;
 	}
 	.td-search-popup.active .search-form {
