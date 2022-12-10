@@ -34,6 +34,7 @@ class Root extends Component {
                         <Route  path="/test" component={ProptertyDetails} />
                         <Route  path="/contact" component={Contact} />
                         <Route  path="/tips" component={Tips} />
+                        <Route  path="/tips2" component={Tips2} />
                         
 	                </Switch>
 	                </div>

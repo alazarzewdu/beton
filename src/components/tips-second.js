@@ -11,6 +11,7 @@ const PropertGridPage = () => {
     return <div>
         <Navbar />
         <PageHeader headertitle="Tips"  />
+        
         <Footer />
     </div>
 }
