@@ -5,13 +5,14 @@ import PropertyGrid from './section/sale-grid';
 import Tips from './section/tips-grid';
 import Footer from './global/footer';
 import Search from './section/search';
-import Agent  from './section/agent';
+import Tips2g  from './section/tips2-grid';
+
 
 const PropertGridPage = () => {
     return <div>
         <Navbar />
         <PageHeader headertitle="Tips"  />
-        
+        <Tips2g/>
         <Footer />
     </div>
 }

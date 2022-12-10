@@ -40,7 +40,7 @@ class Agent extends Component {
                   </div>
                   <div className='tips-det'>
                     <p>All things you need to know about buying and renting houses from team Beton</p>
-                    <Link className="btn btn-baset w-10" to="/tips-second">Read More</Link>
+                    <Link className="btn btn-baset w-10" to="/tips2">Read More</Link>
                     </div>
                 </div>
               
