@@ -11,7 +11,7 @@ class Agent extends Component {
     return <div className="agent-area text-center pd-top-118 pd-bottom-90">
 
           <div className="container">
-            <div className="section-title text-center">
+            <div className="section-title3 text-center">
               <h2>Tips</h2>
               <h6>Hand picked tips from the team Beton</h6>
             </div>
