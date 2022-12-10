@@ -11,6 +11,7 @@ import About from './components/about';
 import Team from './components/team';
 import Contact from './components/contact';
 import Tips from './components/tips';
+import Tips2 from './components/tips-second';
 
 
 
