@@ -214,6 +214,30 @@ select:focus {
   padding-right: 0;
 }
 
+.tips-t {
+  margin-left: 210px;
+  border: 2px solid rgb(193, 193, 193);
+  width: 900px;
+  height: 217px;
+}
+
+.tips-img {
+  width: 320px;
+  
+}
+
+.tips-title {
+  margin-top: -200px;
+  font-size: 40px;
+  margin-left: 335px;
+}
+
+.tips-det {
+  font-size: 20px;
+  margin-left: 340px;
+  width: 500px;
+}
+
 
 
 .no-gutter>[class^=col-] {
@@ -688,6 +712,15 @@ ul {
   margin-left: 310px;
   margin-top:10px;
   color: rgb(235, 8, 8);
+  border: 0;
+  background: var(--main-color);
+}
+
+.btn-baset {
+  width: 130px;
+  margin-left: 20px;
+  margin-top:1px;
+  color: white;
   border: 0;
   background: var(--main-color);
 }
@@ -1526,7 +1559,7 @@ margin-bottom: 0px;
 }
 
 .pd-bottom-90 {
-  padding-bottom: 90px;
+  padding-bottom: 10px;
 }
 
 .pd-bottom-100 {
@@ -3728,7 +3761,7 @@ margin-bottom: 0px;
 /**agent-area**/
 .single-agent-wrap {
   border: 1px solid #0000003a;
-  border-radius: 4px;
+  border-radius: 14px;
   overflow: hidden;
   transition: all 0.4s ease-in;
   position: relative;
