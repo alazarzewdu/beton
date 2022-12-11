@@ -248,6 +248,12 @@
 	margin-left: -2px;
 }
 
+.btn-baset {
+	text-align: center;
+	font-size: 15px;
+	margin-left: -5px;
+}
+
 
 .single-product-wrap.style-2 .product-meta-bottom {
 	font-size: 20px;
