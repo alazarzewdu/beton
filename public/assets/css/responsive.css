@@ -222,10 +222,31 @@
 }
 
 .featured {
-	margin-top: -28px;
+	margin-top: -8px;
 	font-size: 30px;
 }
 
+
+.tips-t {
+	width: 340px;
+	height: 465px;
+	margin-left: 10px;
+}
+
+.tips-img {
+	width: 337px;
+}
+
+.tips-title {
+	margin-left: -10px;
+	padding-top: 200px;
+}
+
+.tips-det {
+	width: 340px;
+	font-size: 20px;
+	margin-left: -2px;
+}
 
 
 .single-product-wrap.style-2 .product-meta-bottom {
@@ -282,7 +303,7 @@
 	    padding: 25px 20px 36px;
 	}
 	.single-service-wrap {
-	    margin-bottom: 80px;
+	    margin-bottom: 0px;
 	}
 	.banner-area-2 {
 	    padding: 240px 0 350px 0;
